@@ -1,8 +1,8 @@
-# Unit 6: assignments development environment
+# Open weight image generation
 
 [![pages-build-deployment](https://github.com/gperdrizet/unit-6-assignments/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gperdrizet/unit-6-assignments/actions/workflows/pages/pages-build-deployment)
 
-This repo was originally intended as a template for the unit 6 assignments development environment. It still works for that purpose, but as usual, I had a little too much fun along the way. It now also contains (and was mostly taken over by) a benchmark comparing several image generation models across two tiers of hardware.
+This repo contains a benchmark comparing several open weight image generation models across two tiers of hardware.
 
 For full results, see [here](https://gperdrizet.github.io/unit-6-assignments).
 
