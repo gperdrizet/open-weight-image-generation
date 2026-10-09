@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/gperdrizet/unit-6-assignments/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gperdrizet/unit-6-assignments/actions/workflows/pages/pages-build-deployment)
 
-This repo contains a benchmark comparing several open weight image generation models across two tiers of hardware.
+This repo contains a benchmark comparing several open weight image generation models across two tiers of hardware. Data was collected end of 2025.
 
 For full results, see [here](https://gperdrizet.github.io/unit-6-assignments).
 
